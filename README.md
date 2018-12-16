@@ -1,0 +1,1 @@
+# firefox-todoist-sidebar
