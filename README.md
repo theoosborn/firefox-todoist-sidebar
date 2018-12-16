@@ -1,1 +1,1 @@
-# firefox-todoist-sidebar
+# Todoist Sidebar
