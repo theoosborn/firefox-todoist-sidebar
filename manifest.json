@@ -10,6 +10,11 @@
         }
     },
 
+    "options_ui": {
+      "page": "options/options.html",
+      "browser_style": true
+    },
+
     "sidebar_action": {
         "default_icon": {
             "48": "icons/icon1_48.png",
@@ -28,7 +33,8 @@
         "_execute_sidebar_action": {
             "suggested_key": {
                 "default": "Shift+Alt+I"
-            }
+            },
+            "description": "Toggle the Todoist sidebar"
         }
     }
 }
