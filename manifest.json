@@ -3,7 +3,7 @@
     "manifest_version": 2,
     "name": "Todoist Sidebar",
     "description": "Displays Todoist in the sidebar.",
-    "version": "1.11",
+    "version": "1.12",
     "applications": {
         "gecko": {
           "strict_min_version": "60.0"
