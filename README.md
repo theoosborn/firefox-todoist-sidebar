@@ -1,4 +1,4 @@
-![logo](icons/icon2_96.png)
+![logo](https://raw.githubusercontent.com/theoosborn/firefox-todoist-sidebar/master/icons/icon2_96.png)
 # Todoist Sidebar
 A Firefox WebExtension to display Todoist in the sidebar. 
 
